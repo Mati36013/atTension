@@ -1,0 +1,12 @@
+atTension (prototype) - GNG1503, équipe FB34
+Copyright (c) 2026 Équipe FB34. Tous droits réservés.
+
+Le code, les textes, les icônes et le design de cette application sont la propriété de leurs auteurs.
+Aucune permission n'est accordée de copier, modifier, redistribuer ou republier tout ou partie de ce
+prototype sans autorisation écrite préalable. Prototype de cours : données fictives seulement ;
+ne pas utiliser pour un suivi médical réel.
+
+Composants de tiers (non inclus dans les fichiers ; chargés ou utilisés à distance) :
+- Polices Nunito et Playfair Display, chargées depuis Google Fonts : licence SIL Open Font License 1.1.
+- Supabase (base de données et authentification) : service utilisé selon ses conditions d'utilisation.
+Le logo (cœur) et les icônes de l'application ont été dessinés pour ce projet.
